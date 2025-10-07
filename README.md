@@ -79,7 +79,7 @@ SAVE_TO_DISK = True
 
 ```
 jupyter-gleifbooks/
-├── 2025-08-18_MappingExercise_v1.0.ipynb  # Mapping notebook
+├── 2025-10-07_MappingExercise_v1.0.ipynb  # Mapping notebook
 ├── requirements.txt                        # Python dependencies
 ├── README.md                              # This documentation file
 ├── LICENSE.md                             # License information
