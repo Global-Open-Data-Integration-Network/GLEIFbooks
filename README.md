@@ -1,7 +1,7 @@
-# GLEIFbooks
+# LEIbooks
 This repository contains a collection of Jupyter notebooks demonstrating practical use cases of LEI (Legal Entity Identifier) data. Each notebook focuses on a specific topic and provides example code to help data users explore, analyze, and apply LEI data effectively.
 
-All notebooks are maintained and published by the **[Global Legal Entity Identifier Foundation (GLEIF)](https://www.gleif.org)**.
+All notebooks are maintained and published by the **[GODIN members](https://godin.gleif.org/)**.
 
 ## Getting Started
 
@@ -133,7 +133,7 @@ If you encounter issues:
 2. Verify your internet connection
 3. Try different configuration options (memory vs disk, full vs subset)
 4. Check the GLEIF website for any service outages
-5. Contact dataqualityfeedback@gleif.org
+5. Contact godin@gleif.org
 
 ## License
 
